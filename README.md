@@ -1,4 +1,4 @@
-<p align="center"># 【catalpa-core-project】</p>
+# <p align="center">【catalpa-core-project】</p>
 
 ## 简介
 ***
